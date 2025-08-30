@@ -17,7 +17,7 @@ This is a small Chrome extension that saves bookmarks into folders automatically
 
 - Clone or download this repo.
 
-- git clone https://github.com/yourusername/bookmark-organizer.git
+- git clone https://github.com/abim91/bookmark-organizer.git
 
 - In Chrome, go to chrome://extensions/.
 
